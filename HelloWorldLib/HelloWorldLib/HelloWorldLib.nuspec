@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>HelloWorldLib</id>
+    <version>1.0.0.0</version>
+    <authors>Falko Janak</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A hello world library for testing paket</description>
+    <tags>HelloWorldLib</tags>
+  </metadata>
+</package>
